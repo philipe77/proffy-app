@@ -1,4 +1,4 @@
- ## Proffy app is a platform that integrates students and teachers 
+ ## Proffy expo app is a platform that integrates students and teachers 
  - List teachers
  - make connections with teachers
  - schedule your classes
